@@ -1,2 +1,2 @@
-# bulk_RNA_analysis_pipeline
+# bulk RNA analysis pipeline
 Pipeline for analysis bulk RNA seq data
